@@ -1,0 +1,35 @@
+int i = 3;
+
+int 5j = 10;
+
+int m = max(i, j);
+
+while(i<m) do
+
+{
+
+i = i+ 1;
+
+}
+
+
+
+void max(int x, int y)
+
+{
+
+int 3temp = 0;
+
+if(x || y)
+
+temp = x;
+
+else
+
+temp = y;
+
+return temp;
+
+}
+
+#

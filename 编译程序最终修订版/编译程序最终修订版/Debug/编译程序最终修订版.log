@@ -1,0 +1,9 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  SSSS.cpp
+F:\Visual Studio 2019 Project\编译程序最终修订版\编译程序最终修订版\SSSS.cpp(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+F:\Visual Studio 2019 Project\编译程序最终修订版\编译程序最终修订版\SSSS.cpp(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+F:\Visual Studio 2019 Project\编译程序最终修订版\编译程序最终修订版\SSSS.cpp(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  编译程序最终修订版.vcxproj -> F:\Visual Studio 2019 Project\编译程序最终修订版\Debug\编译程序最终修订版.exe
